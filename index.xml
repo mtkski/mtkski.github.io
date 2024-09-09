@@ -6,10 +6,22 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Semaine 3</title>
+    <link>https://quartz.jzhao.xyz/Semaine-3</link>
+    <guid>https://quartz.jzhao.xyz/Semaine-3</guid>
+    <description>Logs 9/9/24 Bonne humeur générale quant au fait d’arriver dans des bureaux rangés, décorés et aménagés. Petite réunion avec François le matin, assez satisfait de mon travail de la semaine passée.</description>
+    <pubDate>Mon, 09 Sep 2024 17:00:07 GMT</pubDate>
+  </item><item>
+    <title>Semaine 2</title>
+    <link>https://quartz.jzhao.xyz/Log-book/Semaine-2</link>
+    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-2</guid>
+    <description>Rapport hebdomadaire Mardi j’ai eu réunion avec François, responsable du LAB, pour parler du projet avec Antoine Bertin, mon second gros projet du stage ...</description>
+    <pubDate>Mon, 09 Sep 2024 15:56:33 GMT</pubDate>
+  </item><item>
     <title>Présentation outils</title>
     <link>https://quartz.jzhao.xyz/Pr%C3%A9sentation-outils</link>
     <guid>https://quartz.jzhao.xyz/Pr%C3%A9sentation-outils</guid>
-    <description>Google workspace TODO.</description>
+    <description>Google workspace L’outil d’organisation de travail est google workspace. La puissance de cet outil réside dans le fait que tout est connecté. Par exemple chacun peut créer une réunion, puis envoyer une invitation sur gmail dans le même menu.</description>
     <pubDate>Mon, 02 Sep 2024 10:58:28 GMT</pubDate>
   </item><item>
     <title>Semaine 1</title>
@@ -29,12 +41,6 @@
     <guid>https://quartz.jzhao.xyz/Lettre-de-motivation</guid>
     <description>Bonjour, Permettez moi de me présenter brièvement, je suis étudiant en MA1 en ingénierie informatique à l’école polytechnique de Bruxelles (Université libre de Bruxelles) ...</description>
     <pubDate>Thu, 29 Aug 2024 16:13:14 GMT</pubDate>
-  </item><item>
-    <title>29-09-24</title>
-    <link>https://quartz.jzhao.xyz/Log-book/29-09-24</link>
-    <guid>https://quartz.jzhao.xyz/Log-book/29-09-24</guid>
-    <description></description>
-    <pubDate>Thu, 29 Aug 2024 16:11:54 GMT</pubDate>
   </item><item>
     <title>Log book</title>
     <link>https://quartz.jzhao.xyz/Log-book/Log-book</link>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Objectifs-et-t%C3%A2ches</guid>
     <description>Ceci sont les tâches détaillées par Raoul Someillier, maitre de stage, à l’approche du début de celui-ci. Projet 1 : AI, communication inter/intraspécifique et visualisation Il s’agit d’un projet de R&amp;D et de soutien technique en collaboration avec l’artiste Antoine Bertin qui est en résidence chez nous.</description>
     <pubDate>Thu, 29 Aug 2024 15:12:55 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>General CV Lettre de motivation Objectifs et tâches Attentes Présentation entreprise Project management Présentation outils Rapports Tracker À propos de la candidature Semaine ...</description>
-    <pubDate>Thu, 29 Aug 2024 15:11:53 GMT</pubDate>
   </item>
     </channel>
   </rss>
