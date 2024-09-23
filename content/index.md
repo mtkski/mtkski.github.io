@@ -1,7 +1,10 @@
 # General
 [[À propos de la candidature]]
+
 [[Objectifs et tâches]]
+
 [[Attentes]]
+
 [[Présentation entreprise]]
 ___
 # Project management
