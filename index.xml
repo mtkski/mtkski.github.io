@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Semaine 5</title>
+    <link>https://quartz.jzhao.xyz/Semaine-5</link>
+    <guid>https://quartz.jzhao.xyz/Semaine-5</guid>
+    <description>Rapport hebdo Cette semaine a consisté à terminer les préparatifs pour la performance d’Antoine Bertin qui se déroule à CurieuCity le 27 septembre. Technique Les premiers jours étaient surtout des tests de rendering pour la scène blender.</description>
+    <pubDate>Sat, 28 Sep 2024 16:58:57 GMT</pubDate>
+  </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
@@ -58,12 +64,6 @@
     <link>https://quartz.jzhao.xyz/Log-book/Semaine-2</link>
     <guid>https://quartz.jzhao.xyz/Log-book/Semaine-2</guid>
     <description>Rapport hebdomadaire Mardi j’ai eu réunion avec François, responsable du LAB, pour parler du projet avec Antoine Bertin, mon second gros projet du stage ...</description>
-    <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
-  </item><item>
-    <title>Semaine 1</title>
-    <link>https://quartz.jzhao.xyz/Log-book/Semaine-1</link>
-    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-1</guid>
-    <description>Logs 29-09-24 Quoique anecdotique, je voulais tout de même partager une nouvelle technique qu’un de mes collègue utilise pour communiquer avec chatGPT ...</description>
     <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
   </item>
     </channel>
