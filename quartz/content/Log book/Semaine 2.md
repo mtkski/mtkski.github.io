@@ -1,4 +1,5 @@
 # Rapport hebdomadaire
+## Semaine 2/9 : lancement 
 Mardi j'ai eu réunion avec François, responsable du LAB, pour parler du projet avec Antoine Bertin, mon second gros projet du stage. Il a commencé par m'expliquer l'état du projet et ce qu'Antoine avait en tête pour l'instant en attendant la résidence artistique qui aura lieu la semaine prochaine. Cela concerne la représentation de fichier sonore en objet 3D, possiblement et idéalement imprimables en 3D. Dans ce cas les fichiers sont les chants de beluga. 
 Il m'a présenté les codes qu'ils s'étaient échangés avec Sara (chercheuse de ESP), ses premiers essais de représentation et ses premiers essais à l'imprimante 3D. 
 ![IMG_20240903_154956](IMG_20240903_154956.jpg)

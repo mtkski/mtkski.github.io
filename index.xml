@@ -6,34 +6,52 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Semaine 7</title>
+    <link>https://quartz.jzhao.xyz/Log-book/Semaine-7</link>
+    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-7</guid>
+    <description>Rapport hebdo Semaine 7/10 : midterm et TouchDesigner. Cette semaine a été relativement calme, en début de semaine, j’ai participé à une réunion avec le reste de l’équipe du LAB, ce qui m’a permis de structurer mon travail et d’avoir une vision plus claire des tâches à accomplir pour les semaines à venir.</description>
+    <pubDate>Sun, 13 Oct 2024 16:17:31 GMT</pubDate>
+  </item><item>
+    <title>Semaine 8</title>
+    <link>https://quartz.jzhao.xyz/Log-book/Semaine-8</link>
+    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-8</guid>
+    <description>Logs 13/10/24 Je me suis rendu compte que le stage dans une entreprise plutôt créative comme Ohme a ravivé en moi un élan curiosité, ou en tout cas j’arrive à canaliser celle-ci dans ...</description>
+    <pubDate>Sun, 13 Oct 2024 16:16:53 GMT</pubDate>
+  </item><item>
+    <title>Semaine 6</title>
+    <link>https://quartz.jzhao.xyz/Log-book/Semaine-6</link>
+    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-6</guid>
+    <description>Logs 3/10/24 Je me sens un peu perdu au début de cette nouvelle phase de stage, j’ai du mal à retracer le fil du travail et repartir du travail effectué auparavant ...</description>
+    <pubDate>Thu, 03 Oct 2024 10:11:28 GMT</pubDate>
+  </item><item>
     <title>Semaine 5</title>
-    <link>https://quartz.jzhao.xyz/Semaine-5</link>
-    <guid>https://quartz.jzhao.xyz/Semaine-5</guid>
-    <description>Rapport hebdo Cette semaine a consisté à terminer les préparatifs pour la performance d’Antoine Bertin qui se déroule à CurieuCity le 27 septembre. Technique Les premiers jours étaient surtout des tests de rendering pour la scène blender.</description>
+    <link>https://quartz.jzhao.xyz/Log-book/Semaine-5</link>
+    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-5</guid>
+    <description>Rapport hebdo Semaine 23/10 : rush final Cette semaine a consisté à terminer les préparatifs pour la performance d’Antoine Bertin qui se déroule à CurieuCity le 27 septembre ...</description>
     <pubDate>Sat, 28 Sep 2024 16:58:57 GMT</pubDate>
   </item><item>
     <title>index</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description>General À propos de la candidature Objectifs et tâches Attentes Présentation entreprise Project management Présentation outils Réunions du lundi Rapports Semaine 1 Semaine 2 ...</description>
+    <description>General À propos de la candidature Objectifs et tâches Attentes Présentation entreprise Project management Présentation outils Réunions du lundi Rapports Semaine 1 : déménagement ...</description>
     <pubDate>Mon, 23 Sep 2024 10:12:06 GMT</pubDate>
   </item><item>
     <title>Semaine 4</title>
-    <link>https://quartz.jzhao.xyz/Semaine-4</link>
-    <guid>https://quartz.jzhao.xyz/Semaine-4</guid>
+    <link>https://quartz.jzhao.xyz/Log-book/Semaine-4</link>
+    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-4</guid>
     <description>Log 16/09/24 Ce matin l’équipe a accueilli Andrew, le nouveau responsable LAB. J’ai pu discuter avec lui du stage, il l’a également réalisé chez Ohme il y a 2 ans venant des mêmes études que moi.</description>
+    <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
+  </item><item>
+    <title>Semaine 3</title>
+    <link>https://quartz.jzhao.xyz/Log-book/Semaine-3</link>
+    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-3</guid>
+    <description>Logs 9/9/24 Bonne humeur générale quant au fait d’arriver dans des bureaux rangés, décorés et aménagés. Petite réunion avec François le matin, assez satisfait de mon travail de la semaine passée.</description>
     <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
   </item><item>
     <title>Réunions du lundi</title>
     <link>https://quartz.jzhao.xyz/R%C3%A9unions-du-lundi</link>
     <guid>https://quartz.jzhao.xyz/R%C3%A9unions-du-lundi</guid>
     <description>Organisation générale Le format consiste à ±5 minutes par personnes où chacun présente ses tâches de la semaine, c’est l’occasion pour mettre tout le monde à la page, pour demander ...</description>
-    <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
-  </item><item>
-    <title>Semaine 3</title>
-    <link>https://quartz.jzhao.xyz/Semaine-3</link>
-    <guid>https://quartz.jzhao.xyz/Semaine-3</guid>
-    <description>Logs 9/9/24 Bonne humeur générale quant au fait d’arriver dans des bureaux rangés, décorés et aménagés. Petite réunion avec François le matin, assez satisfait de mon travail de la semaine passée.</description>
     <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
   </item><item>
     <title>Présentation entreprise</title>
@@ -46,24 +64,6 @@
     <link>https://quartz.jzhao.xyz/Pr%C3%A9sentation-outils</link>
     <guid>https://quartz.jzhao.xyz/Pr%C3%A9sentation-outils</guid>
     <description>Google workspace L’outil d’organisation de travail est google workspace. La puissance de cet outil réside dans le fait que tout est connecté. Par exemple chacun peut créer une réunion, puis envoyer une invitation sur gmail dans le même menu.</description>
-    <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
-  </item><item>
-    <title>À propos de la candidature</title>
-    <link>https://quartz.jzhao.xyz/Log-book/%C3%80-propos-de-la-candidature</link>
-    <guid>https://quartz.jzhao.xyz/Log-book/%C3%80-propos-de-la-candidature</guid>
-    <description>CV Lettre de motivation Au moment de contacter une entreprise je prenais le soin de me renseigner sur celle ci et d’adapter mon CV en conséquence en mettant en valeur les compétences ...</description>
-    <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
-  </item><item>
-    <title>Objectifs et tâches</title>
-    <link>https://quartz.jzhao.xyz/Objectifs-et-t%C3%A2ches</link>
-    <guid>https://quartz.jzhao.xyz/Objectifs-et-t%C3%A2ches</guid>
-    <description>Ceci sont les tâches détaillées par Raoul Someillier, maitre de stage, à l’approche du début de celui-ci. Projet 1 : AI, communication inter/intraspécifique et visualisation Il s’agit d’un projet de R&amp;D et de soutien technique en collaboration avec l’artiste Antoine Bertin qui est en résidence chez nous.</description>
-    <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
-  </item><item>
-    <title>Semaine 2</title>
-    <link>https://quartz.jzhao.xyz/Log-book/Semaine-2</link>
-    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-2</guid>
-    <description>Rapport hebdomadaire Mardi j’ai eu réunion avec François, responsable du LAB, pour parler du projet avec Antoine Bertin, mon second gros projet du stage ...</description>
     <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
   </item>
     </channel>

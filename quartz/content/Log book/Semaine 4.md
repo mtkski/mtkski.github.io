@@ -7,6 +7,7 @@ Réunion super intéressante avec Denis Meyers qui a pitché un projet pour lequ
 Une reflexion : j'entraine mes skills de pitching : j'ai souvent l'occasion d'expliquer mon projet, que ça soit en small talk dans le couloir ou à Ophelia de la communication, je sens que j'explique ce projet de plus en plus clairement à chaque fois. 
 
 # Rapport hebdo
+## Semaine 16/10 : rendu blender et impression 3D
 Au niveau technique, le début du stage était surtout lié à de l'optimisation. Le code marchait pour générer une seule forme, mais il fallait en générer 80 su le même fichier Blender. Je travaillais en étroite collaboration avec Andrew, les solutions que nous avons trouvé étaient de générer les formes avec des objets plus légers, de calculer les données à l'avance et de comprendre les opérations Blender qui prenaient beaucoup de temps pour arriver à les éviter le plus possible dans les boucles. Nous y sommes arrivés finalement et nous avons un peu entamé la tâche de la visualisation. C'est à dire créer une scène intéressante que l'on pourrait projeter pendant la performance d'Antoine par exemple. Il y a des challenges majeurs car générer une scène 3D est quelque chose de très long en général. Il faudra réfléchir comment créer une scène qui pourrait s'exporter assez rapidement, tout en étant esthétique et dans la vision artistique d'Antoine. 
 
 ## Relationnel
