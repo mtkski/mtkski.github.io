@@ -27,7 +27,9 @@ ___
 
 [Semaine 7 : midterm et TouchDesigner](Semaine%207.md)
 
-[Semaine 8](Semaine%208.md)
+[Semaine 8 : workshop et expo de rentrée](Semaine%208.md)
+
+[Semaine 9 : ](Semaine%209)
 
 # Evaluation 
 [[Feedback from supervisor]]
