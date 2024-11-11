@@ -1,0 +1,5 @@
+# Résumé hebdo
+Cette semaine était un peu plus calme que d'habitude, une partie de l'équipe était partie en voyage, donc nous n'étions pas nombreux au bureau. 
+La grande mission était de configurer et tester les 18 raspberry pico. Il a fallu souder les headers sur les boards, ensuite flash l'OS, et tester le code pour voir si le pico était bien fonctionnel. 
+J'ai coupé ma journée avec cette activité là pour éviter de devoir faire tout ce travail à la chaîne en un coup. J'ai avancé sur le déroulement du workshop en parallèle. J'ai eu une idée un peu différente, je l'ai explorée en cette fin de semaine en autonomie. Mon idée est de donner un projet TouchDesigner de type "sandbox". J'ai développé plusieurs "zones", plusieurs outils, et après l'introduction, les gens devraient explorer en autonomie. 
+Il y a eu une grande réunion d'organisation sur les résidences de l'année prochaine et la manière d'organiser le travail à l'avenir. Ça a pris toute la matinée, c'était assez fatiguant. Je me rend compte que dans une entreprise de cette taille là, le fonctionnement et les missions de chacun sont voués à pas mal évoluer avec le temps. 

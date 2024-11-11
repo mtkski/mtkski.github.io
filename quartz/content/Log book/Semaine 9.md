@@ -1,0 +1,7 @@
+# Log
+## 22/10
+J'étais fort malade ce jour là, j'ai du télé-travailler, je me rend compte que c'est quelque chose qui ne me déplait pas. Je préfère tout de même être sur site, la bonne ambiance au bureau est un grand + pour moi. 
+
+# Résumé hebdo
+Côté technique j'ai écrit des codes de test pour recevoir des données en wifi venant de microcontrollers "Raspberry Pico". La commande des Raspberry arrive début de semaine prochaine, donc je prépare le terrain pour pouvoir avancer le plus vite possible une fois qu'on les reçoit. J'ai travaillé en parallèle sur l'élaboration du déroulement du workshop, je devrais finir ça pour la semaine prochaine, donc j'ai bien avancé là dessus. 
+J'ai du réalisé une tâche pour Antoine Bertin, l'artiste avec qui nous avons travaillé au début de mon stage, qui a demandé un nouveau render d'un nouveau dataset avec une nouvelle représentation 3D. J'ai accepté la tâche, car je pensais que ça se ferait assez vite, mais la fin de semaine a été entrecoupée de diverses réunions, donc je me suis retrouvé à devoir finir ceci après 18h vendredi. Sur cette tâche là je trouve que j'ai mal géré mon temps, j'aurais du être + efficace dès le début et moins dans l'exploration. Au final il était satisfait, et il y a eu évolution par rapport à ce dont on a parlé au midterm, j'ai pris les devants et j'ai directement communiqué avec lui. 

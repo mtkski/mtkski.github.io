@@ -29,8 +29,11 @@ ___
 
 [Semaine 8 : workshop et expo de rentrée](Semaine%208.md)
 
-[Semaine 9 : ](Semaine%209)
+[Semaine 9 : workshop et Antoine Bertin ](Semaine%209.md)
 
+[Semaine 10 : raspberry pico](Semaine%2010.md)
+
+[Semaine 11 : clap de fin](Semaine%2011.md)
 # Evaluation 
 [[Feedback from supervisor]]
 
