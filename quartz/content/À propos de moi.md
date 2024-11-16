@@ -1,0 +1,4 @@
+Mon nom est Philippe Mutkowski, je suis étudiant en 2e master en polytech option informatique. Je suis en spécialisation intelligence artificielle, mais je m'intéresse énormément à tout ce qui touche au multimedia, la computation visuelle et à l'interaction humain-machine. En dehors de l'académique, je fais de la musique, je suis passionné de design et d'art numérique. 
+
+# Pourquoi Ohme ? 
+Au vu de la description ci-dessus, une entreprise exerçant dans le domaine de l'art comme Ohme faisait beaucoup de sens. Cédric a décrit l'entreprise pendant la présentation du stage en mars, et je me suis dit qu'un stage est l'opportunité parfaite pour découvrir ce milieu. Utiliser mes compétences d'ingénieur dans un contexte un peu alternatif comme l'art est quelque chose que j'avais en tête depuis un moment. J'ai naturellement remis ma [candidature](À%20propos%20de%20la%20candidature.md). 

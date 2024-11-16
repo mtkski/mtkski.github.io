@@ -3,4 +3,4 @@
 ___ 
 Au moment de contacter une entreprise je prenais le soin de me renseigner sur celle ci et d'adapter mon CV en conséquence en mettant en valeur les compétences et intérêts pertinents pour le job. Quelques exemples : l'ajout de mes compétences de logiciels créatifs lors de ma candidature chez Ohme ou la mention que je m'intéresse beaucoup à la micro informatique lors de ma candidature chez Keymesis (entreprise de recherche et réalisation de prototypes). 
 
-
+Je n'ai pas reçu de réponse de Raoul Someillier (Ohme), l'entreprise étant dans une période de rush, mes mails se sont perdu dans la masse. J'ai obtenu un entretien en parlant de ma situation à Cédric quelques semaines plus tard qui a directement contacté Raoul par téléphone. J'ai eu une entrevue avec Raoul le jour même. Cela m'a fait réaliser l'importance des contacts, et le fait d'entretenir des relations professionnelles saines et durables. J'ai pu confirmer ce constat en parlant avec d'autres amis et collègues lors du stage. 

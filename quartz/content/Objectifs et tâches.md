@@ -1,4 +1,4 @@
-Ceci sont les tâches détaillées par Raoul Someillier, maitre de stage, à l'approche du début de celui-ci. 
+Ceci sont les tâches détaillées par Raoul Someillier, mon maitre de stage, à l'approche du début de celui-ci. 
 
 # Projet 1 : AI, communication inter/intraspécifique et visualisation
 Il s'agit d'un projet de R&D et de soutien technique en collaboration avec l'artiste [Antoine Bertin](https://www.studioantoinebertin.com/) qui est en résidence chez nous.  

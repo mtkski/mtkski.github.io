@@ -6,6 +6,24 @@
       <description>Last 10 notes on 🪴 Quartz 4.0</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>À propos de moi</title>
+    <link>https://quartz.jzhao.xyz/%C3%80-propos-de-moi</link>
+    <guid>https://quartz.jzhao.xyz/%C3%80-propos-de-moi</guid>
+    <description>Mon nom est Philippe Mutkowski, je suis étudiant en 2e master en polytech option informatique. Je suis en spécialisation intelligence artificielle, mais je m’intéresse énormément à tout ce qui touche au multimedia, la computation visuelle et à l’interaction humain-machine.</description>
+    <pubDate>Thu, 14 Nov 2024 16:30:27 GMT</pubDate>
+  </item><item>
+    <title>Self evaluation</title>
+    <link>https://quartz.jzhao.xyz/Self-evaluation</link>
+    <guid>https://quartz.jzhao.xyz/Self-evaluation</guid>
+    <description>Points forts Missions en adéquation avec mes intérêts Dès le début de mon stage chez Ohme, j’ai été affecté à des projets et des missions qui résonnaient avec mes intérêts, ce qui a renforcé ...</description>
+    <pubDate>Mon, 11 Nov 2024 23:47:28 GMT</pubDate>
+  </item><item>
+    <title>content.index</title>
+    <link>https://quartz.jzhao.xyz/Log-book/content.index</link>
+    <guid>https://quartz.jzhao.xyz/Log-book/content.index</guid>
+    <description></description>
+    <pubDate>Mon, 11 Nov 2024 12:44:34 GMT</pubDate>
+  </item><item>
     <title>Semaine 11</title>
     <link>https://quartz.jzhao.xyz/Log-book/Semaine-11</link>
     <guid>https://quartz.jzhao.xyz/Log-book/Semaine-11</guid>
@@ -47,24 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Log-book/Semaine-5</guid>
     <description>Rapport hebdo Semaine 23/10 : rush final Cette semaine a consisté à terminer les préparatifs pour la performance d’Antoine Bertin qui se déroule à CurieuCity le 27 septembre ...</description>
     <pubDate>Sat, 28 Sep 2024 16:58:57 GMT</pubDate>
-  </item><item>
-    <title>index</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description>General À propos de la candidature Objectifs et tâches Attentes Présentation entreprise Project management Présentation outils Réunions du lundi Rapports Semaine 1 : déménagement ...</description>
-    <pubDate>Mon, 23 Sep 2024 10:12:06 GMT</pubDate>
-  </item><item>
-    <title>Semaine 4</title>
-    <link>https://quartz.jzhao.xyz/Log-book/Semaine-4</link>
-    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-4</guid>
-    <description>Log 16/09/24 Ce matin l’équipe a accueilli Andrew, le nouveau responsable LAB. J’ai pu discuter avec lui du stage, il l’a également réalisé chez Ohme il y a 2 ans venant des mêmes études que moi.</description>
-    <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
-  </item><item>
-    <title>Semaine 3</title>
-    <link>https://quartz.jzhao.xyz/Log-book/Semaine-3</link>
-    <guid>https://quartz.jzhao.xyz/Log-book/Semaine-3</guid>
-    <description>Logs 9/9/24 Bonne humeur générale quant au fait d’arriver dans des bureaux rangés, décorés et aménagés. Petite réunion avec François le matin, assez satisfait de mon travail de la semaine passée.</description>
-    <pubDate>Mon, 23 Sep 2024 09:51:16 GMT</pubDate>
   </item>
     </channel>
   </rss>

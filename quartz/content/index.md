@@ -1,4 +1,6 @@
 # General
+[[À propos de moi]]
+
 [[À propos de la candidature]]
 
 [[Objectifs et tâches]]
@@ -11,7 +13,7 @@ ___
 [[Présentation outils]]
 
 [[Réunions du lundi]]
-
+___
 # Rapports
 [Semaine 1 : déménagement](Semaine%201.md)
 
@@ -34,6 +36,7 @@ ___
 [Semaine 10 : raspberry pico](Semaine%2010.md)
 
 [Semaine 11 : clap de fin](Semaine%2011.md)
+___
 # Evaluation 
 [[Feedback from supervisor]]
 
