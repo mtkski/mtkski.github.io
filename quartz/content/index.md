@@ -38,8 +38,8 @@ ___
 [Semaine 11 : clap de fin](Semaine%2011.md)
 ___
 # Evaluation 
-[[Feedback from supervisor]]
+[[Évaluation personnelle]]
 
-[[Self evaluation]]
+[[Feedback du superviseur]]
 
-[[Analysis of the evaluation]]
+[[Analyse de l'évaluation]]

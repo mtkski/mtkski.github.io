@@ -1,0 +1,7 @@
+L'évaluation rendue par Raoul a été profondément positive et enrichissante. Ce retour m’a non seulement remotivé, mais il m’a également rassuré sur la qualité du travail que j’ai accompli et sur ma place dans l’entreprise. Certains aspects de ses remarques m’ont particulièrement touché, renforçant mon sentiment d’être vraiment le bienvenu et à ma juste place dans ce milieu.
+
+Je suis fier du chemin parcouru au cours de ce stage, malgré des moments de doute sur la qualité de mon travail. Le feedback a mis en lumière les aspects réussis de mes contributions, tout en me permettant d’identifier clairement les points à améliorer. Je suis tout à fait d’accord avec les axes d’amélioration évoqués par Raoul, notamment l’importance de prendre du recul. Cela m’arrive parfois de m’enfermer dans une vision trop spécifique, et cette réflexion m’a aidé à comprendre l’importance de garder une approche plus large et flexible.
+
+Un autre point soulevé, qui résonne particulièrement avec moi, est l’amélioration de mes capacités à présenter mon travail dans un contexte corporate. Bien que j’aie eu quelques occasions de m’y exercer brièvement, je réalise à quel point il est crucial de pouvoir transmettre efficacement mes idées. C’est une compétence précieuse que je suis déterminé à développer davantage à l’avenir, en commençant avec la présentation de stage. 
+
+Ce retour m’a permis de renforcer ma confiance et de mieux me projeter dans ma carrière. Je repars avec des apprentissages concrets, un sentiment de fierté, et une motivation renouvelée pour continuer à m’améliorer.

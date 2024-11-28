@@ -1,3 +1,7 @@
+# Réponse à mes [Attentes](Attentes.md) de début de stage
+Mon travail était moins axé recherche comparé à ce que je pensais initialement, les délivrables étaient quand même assez concrets, et évidemment il y a avait toujours une partie de recherche et d'apprentissage, mais c'était fort "sur le tas", toujours dans le but d'arriver à un résultat précis décrit par l'artiste par exemple, mais j'ai tout de même bien apprécié cette dynamique. 
+Je pense avoir réussi le fait de laisser une bonne impression, le fait d'être passionné a beaucoup aidé évidemment et j'en ai en effet beaucoup appris sur le milieu de l'art et la place de l'ingénieur dans celui-ci. 
+
 # Points forts
 ## Missions en adéquation avec mes intérêts
 Dès le début de mon stage chez Ohme, j'ai été affecté à des projets et des missions qui résonnaient avec mes intérêts, ce qui a renforcé ma motivation et mon implication. Travailler dans un environnement mêlant arts et sciences correspond parfaitement à mes aspirations professionnelles.
